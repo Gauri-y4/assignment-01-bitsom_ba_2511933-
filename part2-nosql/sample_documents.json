@@ -1,1 +1,24 @@
-
+[{
+    "_id": "E101",
+    "product_name": "Smartphone X",
+    "category": "Electronics",
+    "price": 45000,
+    "brand": "TechPro",
+    "specifications": {
+      "warranty_years": 2,
+      "voltage": "220V",
+      "battery_capacity": "5000mAh"},
+    "features": ["5G","AMOLED Display","Fast Charging"]},
+  { "_id": "C201",
+    "product_name": "Men's Denim Jacket",
+    "category": "Clothing",
+    "price": 3500,
+    "brand": "UrbanStyle",
+    "sizes_available": ["S","M","L","XL"],
+    "material": "Denim"},
+  {"_id": "G301",
+    "product_name": "Organic Almond Milk",
+    "category": "Groceries",
+    "price": 250,
+    "brand": "HealthyFarm",
+    "expiry_date": "2024-12-20"}]
