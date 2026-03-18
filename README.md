@@ -1,5 +1,4 @@
-BITSOM ASSIGNMENT REPOSITORY
-
+BITSOM ASSIGNMENT - REPOSITORY
 
 ## Part 4 — Vector Database Notebook
 
