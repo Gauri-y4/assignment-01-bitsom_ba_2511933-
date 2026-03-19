@@ -1,5 +1,4 @@
-[{
-    "_id": "E101",
+[{"_id": "E101",
     "product_name": "Smartphone X",
     "category": "Electronics",
     "price": 45000,
@@ -9,6 +8,7 @@
       "voltage": "220V",
       "battery_capacity": "5000mAh"},
     "features": ["5G","AMOLED Display","Fast Charging"]},
+    
   { "_id": "C201",
     "product_name": "Men's Denim Jacket",
     "category": "Clothing",
